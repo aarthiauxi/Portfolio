@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-Hi, I'm [Your Name], a Technical Writer transitioning from teaching with a background in Mathematics.
+Hi, I'm Aarthi Auxilia S, a Technical Writer transitioning from teaching with a background in Mathematics.
 
 Known for clarity, structure, and attention to detail, I create user-friendly documentation that simplifies complex concepts. I have hands-on experience with tools like MadCap Flare, Oxygen XML Author, and basic DITA/XML.
 
