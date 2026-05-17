@@ -2,14 +2,13 @@
 
 Hi, I'm Aarthi Auxilia S, a Technical Writer transitioning from teaching with a background in Mathematics.
 
-Known for clarity, structure, and attention to detail, I create user-friendly documentation that simplifies complex concepts. I have hands-on experience with tools like MadCap Flare, Oxygen XML Author, and basic DITA/XML.
+Known for clarity, structure, and attention to detail, I create user-friendly documentation that simplifies complex concepts. I have hands-on experience in developing structured content and applying documentation best practices.
 
 ---
 
 ## Skills
-- User Documentation (Guides, SOPs)
+- User Documentation 
 - Release Notes
-- Editing & Proofreading
 - Topic-based Writing (DITA basics)
 
 ## Tools
