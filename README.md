@@ -1,4 +1,4 @@
-# Technical Writing Portfolio
+# Portfolio
 
 Hi, I'm Aarthi Auxilia S, a Technical Writer transitioning from teaching with a background in Mathematics.
 
@@ -26,7 +26,7 @@ A beginner-friendly guide explaining AWS basics and account setup.
 - Account Creation Steps
 - Overview of Core Services
 
-[View Document](./aws-guide/README.md)
+[AWS Cloud – Getting Started Guide](./projects/aws-getting-started/aws-cloud-getting-started-guide.docx)
 
 ---
 
@@ -38,7 +38,7 @@ A simple, step-by-step guide for updating WhatsApp status.
 - Beginner-friendly language
 - Clear structure
 
-[View Document](./whatsapp-guide/README.md)
+[WhatsApp Status Update Guide](./projects/updating-status-on-whatsapp/updating-status-on-whatsapp.md)
 
 ---
 
@@ -48,5 +48,5 @@ I am seeking a Junior Technical Writer role to contribute to documentation proje
 ---
 
 ## Contact
-Email: [Your Email]  
-LinkedIn: [Your LinkedIn Link]
+Email: [Email to me](aarthiauxi@gmail.com)
+Mobile: 07418007896
