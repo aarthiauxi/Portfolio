@@ -48,5 +48,5 @@ I am seeking a Junior Technical Writer role to contribute to documentation proje
 ---
 
 ## Contact
-Email: [Email to me](aarthiauxi@gmail.com)
+Email: [aarthiauxi@gmail.com](aarthiauxi@gmail.com)
 Mobile: 07418007896
